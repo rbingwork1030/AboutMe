@@ -37,11 +37,14 @@
 
 ## 程式作品
 #### Vue 
-  * todolist [todolist](https://github.com/rbingwork1030/Vue-todolist, "todolist")	
+  *  [todolist](https://github.com/rbingwork1030/Vue-todolist, "todolist")	
   
   *記錄一下自己平常重要的事情 最重要的能夠學習Vue的框架*
-  * MonospaceGitHelper [MonospaceGitHelper](https://github.com/rbingwork1030/MonospaceGitHelper, "MonospaceGitHelper") 
-  *串接團隊的Ｇithub 了解團隊目前commit狀況*
+  *  [GitHubHelper](https://github.com/rbingwork1030/GitHubHelper, "GitHubHelper") 
+  *串接團隊的Ｇithub 了解團隊目前commit狀況  並用bootstrap美化*
+  
+#### Html 
+ * [購物網站排版](https://codepen.io/rbingwork1030/pen/OzjooX, "購物網站排版") 
 
 
 
@@ -62,4 +65,4 @@
 解決問題的方法是不斷「做中學」累積經驗，目前對於未來，我希望學習前端框架，如 Vue 以及自動化部署
 ##關於我
 
-在工作的兩年中，了解到有前端相關訊息，所以透過自學與線上課程增進前端技術，期許自己成為一位出色的前端工程師。樂於涉略多元技術及知識。 
+在工作的兩年中，了解到有網頁相關訊息，所以透過自學與線上課程增進前端技術，期許自己成為一位出色的網頁工程師。 
